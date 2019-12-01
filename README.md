@@ -1,4 +1,4 @@
-# AWS Certified Solutions Architect-Professional SAP-C01 New Feb 2019 Version Exam
+# AWS Certified Solutions Architect-Professional SAP-C01  - 2020
 
 ## TL;DR;
 
@@ -9,7 +9,7 @@
 - Helpful AWS Cheat sheets: * https://tutorialsdojo.com/aws-cheat-sheets/
 
 
-## MUST READ If You're Preparing For Feb 2019 Exam Version: 
+## MUST READ
 
 If you have not taken the exam yet and are preparing to take the new version soon then kindly take some time to read this very important announcement. This is an update regarding the new services/concepts that are introduced in the new exam version: AWS Certified Solutions Architect - Professional exam (SAP-C01).
 
